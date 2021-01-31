@@ -1,14 +1,12 @@
 export default {
-    mode: 'spa',
+  mode: "spa",
 
-    head: {
-        title: 'CC',
-        meta: [
-            { charset: 'utf-8' },
-        ],
-    },
+  head: {
+    title: "CC",
+    meta: [{ charset: "utf-8" }],
+  },
 
-    plugins: [],
+  plugins: [],
 
-    buildModules: []
+  buildModules: [],
 };
