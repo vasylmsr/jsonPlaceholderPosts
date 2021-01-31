@@ -2,7 +2,7 @@
 
 set -e
 
-yarn run build
+npm run build
 
 cd dist
 

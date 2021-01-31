@@ -9,4 +9,8 @@ export default {
   plugins: [],
 
   buildModules: [],
+  target: "static",
+  router: {
+    base: "/jsonPlaceholderPosts/",
+  },
 };
